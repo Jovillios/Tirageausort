@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\user\Documents\Code\C++\TirageAuSort\TirageAuSort\main.cpp(23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\user\Documents\Code\C++\TirageAuSort\TirageAuSort\main.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TirageAuSort.vcxproj -> C:\Users\user\Documents\Code\C++\TirageAuSort\Debug\TirageAuSort.exe
